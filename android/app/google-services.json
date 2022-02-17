@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882125121201",
+    "project_id": "fir-databseapp-3d18a",
+    "storage_bucket": "fir-databseapp-3d18a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882125121201:android:9c8f092d8e1f7ac45be490",
+        "android_client_info": {
+          "package_name": "com.inmakes.firebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882125121201-hhrho247rs7pvcs7fo2d3rheo3n0ok1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAhU9_RC9jJ2XWD6py6_9vdivQPPHrM_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882125121201-hhrho247rs7pvcs7fo2d3rheo3n0ok1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
