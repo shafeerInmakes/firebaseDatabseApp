@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "882125121201",
+    "firebase_url": "https://fir-databseapp-3d18a-default-rtdb.firebaseio.com",
     "project_id": "fir-databseapp-3d18a",
     "storage_bucket": "fir-databseapp-3d18a.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "882125121201-i15jbj67d4sebievfl2f8ilbgqp10vtu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inmakes.firebasedatabaseapp",
+            "certificate_hash": "e1cdbc76413518fbffaa1337c88bc3145519f5d7"
+          }
+        },
         {
           "client_id": "882125121201-hhrho247rs7pvcs7fo2d3rheo3n0ok1g.apps.googleusercontent.com",
           "client_type": 3
